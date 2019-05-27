@@ -1,2 +1,2 @@
 inherit_from:
-  - .rubocop-plataformatec.yml
+  - https://raw.githubusercontent.com/plataformatec/linters/master/.rubocop.yml
